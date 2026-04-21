@@ -1,0 +1,130 @@
+bip_39_2_word_array:
+- until
+- plug
+bip_39_2_word_no_space: untilplug
+bip_39_2_word_space: until plug
+bip_39_2_word_underscore: until_plug
+bip_39_3_word_array:
+- until
+- plug
+- truth
+bip_39_3_word_no_space: untilplugtruth
+bip_39_3_word_space: until plug truth
+bip_39_3_word_underscore: until_plug_truth
+bip_39_full_array:
+- until
+- plug
+- truth
+- burger
+- retire
+- cigar
+- fiscal
+- security
+- enlist
+- knock
+- focus
+- luggage
+bip_39_full_no_space: untilplugtruthburgerretirecigarfiscalsecurityenlistknockfocusluggage
+bip_39_full_space: until plug truth burger retire cigar fiscal security enlist knock
+  focus luggage
+bip_39_full_underscore: until_plug_truth_burger_retire_cigar_fiscal_security_enlist_knock_focus_luggage
+directory: parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+generate_stl: false
+id: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+id_no_class: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+id_no_size: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+id_no_type: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+id_oobb: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+kwargs:
+  filter: ''
+  generate_stl: false
+  height: 6
+  modes:
+  - 3dpr
+  navigation: false
+  oomp_description_extra: ''
+  oomp_description_main: holder_5_width_6_height_21_mm_depth
+  oomp_mode: project
+  oomp_run: false
+  overwrite: true
+  run_oomp: true
+  run_oomp_populate: true
+  run_scad: true
+  thickness: 21
+  type: default_holder
+  width: 5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+md5: ee34dba70f5b7e51d5e6164acf7968c2
+md5_10: ee34dba70f
+md5_10_upper: EE34DBA70F
+md5_5: ee34d
+md5_5_upper: EE34D
+md5_6: ee34db
+md5_6_alpha: 9alln
+md5_6_alpha_upper: 9ALLN
+md5_6_upper: EE34DB
+name: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket 6 Outlet
+  Pro Elec 2068
+name_no_class: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket
+  6 Outlet Pro Elec 2068
+name_no_size: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket 6
+  Outlet Pro Elec 2068
+name_no_type: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket 6
+  Outlet Pro Elec 2068
+name_proper: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket 6
+  Outlet Pro Elec 2068
+name_space: oobb 5 width 6 height 21 depth electrical extension lead uk socket 6 outlet
+  pro elec 2068
+name_upper: OOBB 5 WIDTH 6 HEIGHT 21 DEPTH ELECTRICAL EXTENSION LEAD UK SOCKET 6 OUTLET
+  PRO ELEC 2068
+oobb: true
+oobb_details:
+  height: 6
+  thickness: 21
+  width: 5
+oobb_name: holder
+oomp_key: oomp_oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+project_name: C:\gh\project_base
+run_oomp: true
+run_oomp_populate: true
+run_scad: true
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_16: ''
+taxonomy_17: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_upper: OOBB
+taxonomy_2: 5_width
+taxonomy_2_capital: 5 Width
+taxonomy_2_first_letter: '5'
+taxonomy_2_first_letter_upper: '5'
+taxonomy_2_upper: 5_WIDTH
+taxonomy_3: 6_height
+taxonomy_3_capital: 6 Height
+taxonomy_3_first_letter: '6'
+taxonomy_3_first_letter_upper: '6'
+taxonomy_3_upper: 6_HEIGHT
+taxonomy_4: 21_depth
+taxonomy_4_capital: 21 Depth
+taxonomy_4_first_letter: '2'
+taxonomy_4_first_letter_upper: '2'
+taxonomy_4_upper: 21_DEPTH
+taxonomy_5: electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+taxonomy_5_capital: Electrical Extension Lead Uk Socket 6 Outlet Pro Elec 2068
+taxonomy_5_first_letter: e
+taxonomy_5_first_letter_upper: E
+taxonomy_5_upper: ELECTRICAL_EXTENSION_LEAD_UK_SOCKET_6_OUTLET_PRO_ELEC_2068
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: ''
