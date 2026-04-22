@@ -1,92 +1,95 @@
 bip_39_2_word_array:
-- until
-- plug
-bip_39_2_word_no_space: untilplug
-bip_39_2_word_space: until plug
-bip_39_2_word_underscore: until_plug
+- summer
+- job
+bip_39_2_word_no_space: summerjob
+bip_39_2_word_space: summer job
+bip_39_2_word_underscore: summer_job
 bip_39_3_word_array:
-- until
-- plug
-- truth
-bip_39_3_word_no_space: untilplugtruth
-bip_39_3_word_space: until plug truth
-bip_39_3_word_underscore: until_plug_truth
+- summer
+- job
+- deal
+bip_39_3_word_no_space: summerjobdeal
+bip_39_3_word_space: summer job deal
+bip_39_3_word_underscore: summer_job_deal
 bip_39_full_array:
-- until
-- plug
-- truth
-- burger
-- retire
-- cigar
-- fiscal
-- security
-- enlist
-- knock
-- focus
-- luggage
-bip_39_full_no_space: untilplugtruthburgerretirecigarfiscalsecurityenlistknockfocusluggage
-bip_39_full_space: until plug truth burger retire cigar fiscal security enlist knock
-  focus luggage
-bip_39_full_underscore: until_plug_truth_burger_retire_cigar_fiscal_security_enlist_knock_focus_luggage
-directory: parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-generate_stl: false
-id: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-id_no_class: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-id_no_size: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-id_no_type: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-id_oobb: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+- summer
+- job
+- deal
+- hen
+- legend
+- enter
+- search
+- project
+- much
+- pottery
+- dentist
+- wise
+bip_39_full_no_space: summerjobdealhenlegendentersearchprojectmuchpotterydentistwise
+bip_39_full_space: summer job deal hen legend enter search project much pottery dentist
+  wise
+bip_39_full_underscore: summer_job_deal_hen_legend_enter_search_project_much_pottery_dentist_wise
+directory: parts/oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+generate_stl: true
+id: oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+id_no_class: oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+id_no_size: oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+id_no_type: oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+id_oobb: oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
 kwargs:
   filter: ''
-  generate_stl: false
+  generate_stl: true
   height: 6
   modes:
   - 3dpr
-  navigation: false
+  navigation: true
+  oobb_name: holder
   oomp_description_extra: ''
   oomp_description_main: holder_5_width_6_height_21_mm_depth
   oomp_mode: project
-  oomp_run: false
+  oomp_run: true
   overwrite: true
   run_oomp: true
   run_oomp_populate: true
   run_scad: true
   thickness: 21
+  typ: all
   type: default_holder
   width: 5
-link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-md5: ee34dba70f5b7e51d5e6164acf7968c2
-md5_10: ee34dba70f
-md5_10_upper: EE34DBA70F
-md5_5: ee34d
-md5_5_upper: EE34D
-md5_6: ee34db
-md5_6_alpha: 9alln
-md5_6_alpha_upper: 9ALLN
-md5_6_upper: EE34DB
-name: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket 6 Outlet
-  Pro Elec 2068
-name_no_class: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+md5: d92f00e0b597f896f0856091151cea7e
+md5_10: d92f00e0b5
+md5_10_upper: D92F00E0B5
+md5_5: d92f0
+md5_5_upper: D92F0
+md5_6: d92f00
+md5_6_alpha: 8h2io
+md5_6_alpha_upper: 8H2IO
+md5_6_upper: D92F00
+name: Oobb Holder 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket 6
+  Outlet Pro Elec 2068
+name_no_class: Oobb Holder 5 Width 6 Height 21 Depth Electrical Extension Lead Uk
+  Socket 6 Outlet Pro Elec 2068
+name_no_size: Oobb Holder 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket
   6 Outlet Pro Elec 2068
-name_no_size: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket 6
-  Outlet Pro Elec 2068
-name_no_type: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket 6
-  Outlet Pro Elec 2068
-name_proper: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket 6
-  Outlet Pro Elec 2068
-name_space: oobb 5 width 6 height 21 depth electrical extension lead uk socket 6 outlet
-  pro elec 2068
-name_upper: OOBB 5 WIDTH 6 HEIGHT 21 DEPTH ELECTRICAL EXTENSION LEAD UK SOCKET 6 OUTLET
-  PRO ELEC 2068
+name_no_type: Oobb Holder 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket
+  6 Outlet Pro Elec 2068
+name_proper: Oobb Holder 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket
+  6 Outlet Pro Elec 2068
+name_space: oobb holder 5 width 6 height 21 depth electrical extension lead uk socket
+  6 outlet pro elec 2068
+name_upper: OOBB HOLDER 5 WIDTH 6 HEIGHT 21 DEPTH ELECTRICAL EXTENSION LEAD UK SOCKET
+  6 OUTLET PRO ELEC 2068
 oobb: true
 oobb_details:
   height: 6
+  oobb_name: holder
   thickness: 21
   width: 5
 oobb_name: holder
-oomp_key: oomp_oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-project_name: C:\gh\project_base
+oomp_key: oomp_oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+project_name: C:\gh\oomp_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
 run_oomp: true
 run_oomp_populate: true
 run_scad: true
@@ -103,61 +106,65 @@ taxonomy_1_capital: Oobb
 taxonomy_1_first_letter: o
 taxonomy_1_first_letter_upper: O
 taxonomy_1_upper: OOBB
-taxonomy_2: 5_width
-taxonomy_2_capital: 5 Width
-taxonomy_2_first_letter: '5'
-taxonomy_2_first_letter_upper: '5'
-taxonomy_2_upper: 5_WIDTH
-taxonomy_3: 6_height
-taxonomy_3_capital: 6 Height
-taxonomy_3_first_letter: '6'
-taxonomy_3_first_letter_upper: '6'
-taxonomy_3_upper: 6_HEIGHT
-taxonomy_4: 21_depth
-taxonomy_4_capital: 21 Depth
-taxonomy_4_first_letter: '2'
-taxonomy_4_first_letter_upper: '2'
-taxonomy_4_upper: 21_DEPTH
-taxonomy_5: electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-taxonomy_5_capital: Electrical Extension Lead Uk Socket 6 Outlet Pro Elec 2068
-taxonomy_5_first_letter: e
-taxonomy_5_first_letter_upper: E
-taxonomy_5_upper: ELECTRICAL_EXTENSION_LEAD_UK_SOCKET_6_OUTLET_PRO_ELEC_2068
-taxonomy_6: ''
+taxonomy_2: holder
+taxonomy_2_capital: Holder
+taxonomy_2_first_letter: h
+taxonomy_2_first_letter_upper: H
+taxonomy_2_upper: HOLDER
+taxonomy_3: 5_width
+taxonomy_3_capital: 5 Width
+taxonomy_3_first_letter: '5'
+taxonomy_3_first_letter_upper: '5'
+taxonomy_3_upper: 5_WIDTH
+taxonomy_4: 6_height
+taxonomy_4_capital: 6 Height
+taxonomy_4_first_letter: '6'
+taxonomy_4_first_letter_upper: '6'
+taxonomy_4_upper: 6_HEIGHT
+taxonomy_5: 21_depth
+taxonomy_5_capital: 21 Depth
+taxonomy_5_first_letter: '2'
+taxonomy_5_first_letter_upper: '2'
+taxonomy_5_upper: 21_DEPTH
+taxonomy_6: electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+taxonomy_6_capital: Electrical Extension Lead Uk Socket 6 Outlet Pro Elec 2068
+taxonomy_6_first_letter: e
+taxonomy_6_first_letter_upper: E
+taxonomy_6_upper: ELECTRICAL_EXTENSION_LEAD_UK_SOCKET_6_OUTLET_PRO_ELEC_2068
 taxonomy_7: ''
 taxonomy_8: ''
 taxonomy_9: ''
 thing:
   bip_39_2_word_array:
-  - until
-  - plug
-  bip_39_2_word_no_space: untilplug
-  bip_39_2_word_space: until plug
-  bip_39_2_word_underscore: until_plug
+  - summer
+  - job
+  bip_39_2_word_no_space: summerjob
+  bip_39_2_word_space: summer job
+  bip_39_2_word_underscore: summer_job
   bip_39_3_word_array:
-  - until
-  - plug
-  - truth
-  bip_39_3_word_no_space: untilplugtruth
-  bip_39_3_word_space: until plug truth
-  bip_39_3_word_underscore: until_plug_truth
+  - summer
+  - job
+  - deal
+  bip_39_3_word_no_space: summerjobdeal
+  bip_39_3_word_space: summer job deal
+  bip_39_3_word_underscore: summer_job_deal
   bip_39_full_array:
-  - until
-  - plug
-  - truth
-  - burger
-  - retire
-  - cigar
-  - fiscal
-  - security
-  - enlist
-  - knock
-  - focus
-  - luggage
-  bip_39_full_no_space: untilplugtruthburgerretirecigarfiscalsecurityenlistknockfocusluggage
-  bip_39_full_space: until plug truth burger retire cigar fiscal security enlist knock
-    focus luggage
-  bip_39_full_underscore: until_plug_truth_burger_retire_cigar_fiscal_security_enlist_knock_focus_luggage
+  - summer
+  - job
+  - deal
+  - hen
+  - legend
+  - enter
+  - search
+  - project
+  - much
+  - pottery
+  - dentist
+  - wise
+  bip_39_full_no_space: summerjobdealhenlegendentersearchprojectmuchpotterydentistwise
+  bip_39_full_space: summer job deal hen legend enter search project much pottery
+    dentist wise
+  bip_39_full_underscore: summer_job_deal_hen_legend_enter_search_project_much_pottery_dentist_wise
   classification: oobb
   color: ''
   components:
@@ -1705,13 +1712,14 @@ thing:
   components_objects:
   - depth: 21
     filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - 0
@@ -1720,22 +1728,24 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: oobb_plate
     thickness: 21
+    typ: all
     type: positive
     width: 5
   - both_holes: true
     depth: 21
     filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     holes: perimeter
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - 0
@@ -1744,20 +1754,22 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: oobb_holes
     thickness: 21
+    typ: all
     type: p
     width: 5
   - depth: 21
     filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 57
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - 0
@@ -1766,22 +1778,24 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: oobb_cube
     thickness: 21
+    typ: all
     type: negative
     width: 100
   - filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     hole: true
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     nut: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - 0
@@ -1791,19 +1805,21 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: nut
     thickness: 21
+    typ: all
     type: n
     width: 5
   - filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - 15
@@ -1813,19 +1829,21 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: oobb_cylinder
     thickness: 21
+    typ: all
     type: negative
     width: 5
   - filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - -15
@@ -1835,19 +1853,21 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: oobb_cylinder
     thickness: 21
+    typ: all
     type: negative
     width: 5
   - filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - -15
@@ -1857,19 +1877,21 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: oobb_cylinder
     thickness: 21
+    typ: all
     type: negative
     width: 5
   - filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - 15
@@ -1879,21 +1901,23 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: oobb_cylinder
     thickness: 21
+    typ: all
     type: negative
     width: 5
   - depth: 21
     filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - 22.5
@@ -1903,21 +1927,23 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: screw_countersunk
     thickness: 21
+    typ: all
     type: p
     width: 5
   - depth: 21
     filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - -22.5
@@ -1927,21 +1953,23 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: screw_countersunk
     thickness: 21
+    typ: all
     type: p
     width: 5
   - depth: 21
     filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - -22.5
@@ -1951,21 +1979,23 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: screw_countersunk
     thickness: 21
+    typ: all
     type: p
     width: 5
   - depth: 21
     filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     pos:
     - 22.5
@@ -1975,90 +2005,94 @@ thing:
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     shape: screw_countersunk
     thickness: 21
+    typ: all
     type: p
     width: 5
   components_string:
-  - oobb_plate_shape_positive_type_21_depth_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width
-  - oobb_holes_shape_p_type_21_depth_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width_true_both_holes_perimeter_holes
-  - oobb_cube_shape_negative_type_21_depth_0_0_5_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_57_height_21_thickness_100_width
-  - nut_shape_n_type_m4_radius_name_0_-6_0_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width_true_hole_true_nut
-  - oobb_cylinder_shape_negative_type_15_15_0_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width_7.5_radius
-  - oobb_cylinder_shape_negative_type_-15_15_0_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width_7.5_radius
-  - oobb_cylinder_shape_negative_type_-15_-15_0_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width_7.5_radius
-  - oobb_cylinder_shape_negative_type_15_-15_0_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width_7.5_radius
-  - screw_countersunk_shape_p_type_m3_5_screw_wood_radius_name_21_depth_22.5_37.5_21_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width
-  - screw_countersunk_shape_p_type_m3_5_screw_wood_radius_name_21_depth_-22.5_37.5_21_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width
-  - screw_countersunk_shape_p_type_m3_5_screw_wood_radius_name_21_depth_-22.5_-37.5_21_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width
-  - screw_countersunk_shape_p_type_m3_5_screw_wood_radius_name_21_depth_22.5_-37.5_21_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_false_generate_stl_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_height_21_thickness_5_width
+  - oobb_plate_shape_positive_type_21_depth_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width
+  - oobb_holes_shape_p_type_21_depth_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width_true_both_holes_perimeter_holes
+  - oobb_cube_shape_negative_type_21_depth_0_0_5_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_57_height_holder_oobb_name_21_thickness_100_width
+  - nut_shape_n_type_m4_radius_name_0_-6_0_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width_true_hole_true_nut
+  - oobb_cylinder_shape_negative_type_15_15_0_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width_7.5_radius
+  - oobb_cylinder_shape_negative_type_-15_15_0_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width_7.5_radius
+  - oobb_cylinder_shape_negative_type_-15_-15_0_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width_7.5_radius
+  - oobb_cylinder_shape_negative_type_15_-15_0_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width_7.5_radius
+  - screw_countersunk_shape_p_type_m3_5_screw_wood_radius_name_21_depth_22.5_37.5_21_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width
+  - screw_countersunk_shape_p_type_m3_5_screw_wood_radius_name_21_depth_-22.5_37.5_21_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width
+  - screw_countersunk_shape_p_type_m3_5_screw_wood_radius_name_21_depth_-22.5_-37.5_21_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width
+  - screw_countersunk_shape_p_type_m3_5_screw_wood_radius_name_21_depth_22.5_-37.5_21_pos_true_run_oomp_populate_true_run_oomp_true_run_scad_true_generate_stl_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_6_height_holder_oobb_name_21_thickness_5_width
   description: default holder 5x6x21
   description_extra: ''
   description_main: 5_width_6_height_21_mm_depth
-  directory: parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-  generate_stl: false
+  directory: parts/oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+  generate_stl: true
   height: 6
   height_mm: 89
-  id: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-  id_no_class: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-  id_no_size: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-  id_no_type: oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+  id: oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+  id_no_class: oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+  id_no_size: oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+  id_no_type: oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
   kwargs:
     filter: ''
-    generate_stl: false
+    generate_stl: true
     height: 6
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
+    oobb_name: holder
     oomp_description_extra: ''
     oomp_description_main: holder_5_width_6_height_21_mm_depth
     oomp_mode: project
-    oomp_run: false
+    oomp_run: true
     overwrite: true
     run_oomp: true
     run_oomp_populate: true
     run_scad: true
-    save_type: none
+    save_type: all
     thickness: 21
+    typ: all
     type: default_holder
     width: 5
-  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
   manufacturer: ''
-  md5: ee34dba70f5b7e51d5e6164acf7968c2
-  md5_10: ee34dba70f
-  md5_10_upper: EE34DBA70F
-  md5_5: ee34d
-  md5_5_upper: EE34D
-  md5_6: ee34db
-  md5_6_alpha: 9alln
-  md5_6_alpha_upper: 9ALLN
-  md5_6_upper: EE34DB
-  name: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket 6 Outlet
-    Pro Elec 2068
-  name_no_class: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket
+  md5: d92f00e0b597f896f0856091151cea7e
+  md5_10: d92f00e0b5
+  md5_10_upper: D92F00E0B5
+  md5_5: d92f0
+  md5_5_upper: D92F0
+  md5_6: d92f00
+  md5_6_alpha: 8h2io
+  md5_6_alpha_upper: 8H2IO
+  md5_6_upper: D92F00
+  name: Oobb Holder 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket
     6 Outlet Pro Elec 2068
-  name_no_size: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket
-    6 Outlet Pro Elec 2068
-  name_no_type: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket
-    6 Outlet Pro Elec 2068
-  name_proper: Oobb 5 Width 6 Height 21 Depth Electrical Extension Lead Uk Socket
-    6 Outlet Pro Elec 2068
+  name_no_class: Oobb Holder 5 Width 6 Height 21 Depth Electrical Extension Lead Uk
+    Socket 6 Outlet Pro Elec 2068
+  name_no_size: Oobb Holder 5 Width 6 Height 21 Depth Electrical Extension Lead Uk
+    Socket 6 Outlet Pro Elec 2068
+  name_no_type: Oobb Holder 5 Width 6 Height 21 Depth Electrical Extension Lead Uk
+    Socket 6 Outlet Pro Elec 2068
+  name_proper: Oobb Holder 5 Width 6 Height 21 Depth Electrical Extension Lead Uk
+    Socket 6 Outlet Pro Elec 2068
   name_short: 'Default Holder 5x6x21 '
-  name_space: oobb 5 width 6 height 21 depth electrical extension lead uk socket 6
-    outlet pro elec 2068
+  name_space: oobb holder 5 width 6 height 21 depth electrical extension lead uk socket
+    6 outlet pro elec 2068
   name_text: Oobb Part Default Holder 5 Width 6 Height 21 mm Depth
-  name_upper: OOBB 5 WIDTH 6 HEIGHT 21 DEPTH ELECTRICAL EXTENSION LEAD UK SOCKET 6
-    OUTLET PRO ELEC 2068
+  name_upper: OOBB HOLDER 5 WIDTH 6 HEIGHT 21 DEPTH ELECTRICAL EXTENSION LEAD UK SOCKET
+    6 OUTLET PRO ELEC 2068
   oobb: true
   oobb_details:
     height: 6
+    oobb_name: holder
     thickness: 21
     width: 5
   oobb_name: holder
-  oomp_key: oomp_oobb_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+  oomp_key: oomp_oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
   part_number: ''
   run_oomp: true
   run_oomp_populate: true
@@ -2078,27 +2112,31 @@ thing:
   taxonomy_1_first_letter: o
   taxonomy_1_first_letter_upper: O
   taxonomy_1_upper: OOBB
-  taxonomy_2: 5_width
-  taxonomy_2_capital: 5 Width
-  taxonomy_2_first_letter: '5'
-  taxonomy_2_first_letter_upper: '5'
-  taxonomy_2_upper: 5_WIDTH
-  taxonomy_3: 6_height
-  taxonomy_3_capital: 6 Height
-  taxonomy_3_first_letter: '6'
-  taxonomy_3_first_letter_upper: '6'
-  taxonomy_3_upper: 6_HEIGHT
-  taxonomy_4: 21_depth
-  taxonomy_4_capital: 21 Depth
-  taxonomy_4_first_letter: '2'
-  taxonomy_4_first_letter_upper: '2'
-  taxonomy_4_upper: 21_DEPTH
-  taxonomy_5: electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-  taxonomy_5_capital: Electrical Extension Lead Uk Socket 6 Outlet Pro Elec 2068
-  taxonomy_5_first_letter: e
-  taxonomy_5_first_letter_upper: E
-  taxonomy_5_upper: ELECTRICAL_EXTENSION_LEAD_UK_SOCKET_6_OUTLET_PRO_ELEC_2068
-  taxonomy_6: ''
+  taxonomy_2: holder
+  taxonomy_2_capital: Holder
+  taxonomy_2_first_letter: h
+  taxonomy_2_first_letter_upper: H
+  taxonomy_2_upper: HOLDER
+  taxonomy_3: 5_width
+  taxonomy_3_capital: 5 Width
+  taxonomy_3_first_letter: '5'
+  taxonomy_3_first_letter_upper: '5'
+  taxonomy_3_upper: 5_WIDTH
+  taxonomy_4: 6_height
+  taxonomy_4_capital: 6 Height
+  taxonomy_4_first_letter: '6'
+  taxonomy_4_first_letter_upper: '6'
+  taxonomy_4_upper: 6_HEIGHT
+  taxonomy_5: 21_depth
+  taxonomy_5_capital: 21 Depth
+  taxonomy_5_first_letter: '2'
+  taxonomy_5_first_letter_upper: '2'
+  taxonomy_5_upper: 21_DEPTH
+  taxonomy_6: electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+  taxonomy_6_capital: Electrical Extension Lead Uk Socket 6 Outlet Pro Elec 2068
+  taxonomy_6_first_letter: e
+  taxonomy_6_first_letter_upper: E
+  taxonomy_6_upper: ELECTRICAL_EXTENSION_LEAD_UK_SOCKET_6_OUTLET_PRO_ELEC_2068
   taxonomy_7: ''
   taxonomy_8: ''
   taxonomy_9: ''

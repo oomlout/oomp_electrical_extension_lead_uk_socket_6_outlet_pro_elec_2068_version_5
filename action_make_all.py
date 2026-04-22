@@ -8,7 +8,7 @@ def main(**kwargs):
 
     kwargs["run_scad"] = True
 
-    kwargs["generate_stl"] = False
+    kwargs["generate_stl"] = True
 
     import working
     working.run(**kwargs)

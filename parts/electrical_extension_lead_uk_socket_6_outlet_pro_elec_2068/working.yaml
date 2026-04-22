@@ -29,7 +29,7 @@ bip_39_full_space: cage top relief island flat sponsor bread erode exile shell s
     scheme
 bip_39_full_underscore: cage_top_relief_island_flat_sponsor_bread_erode_exile_shell_strike_scheme
 directory: parts/electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-generate_stl: false
+generate_stl: true
 id: electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
 id_no_class: electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
 id_no_size: electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
