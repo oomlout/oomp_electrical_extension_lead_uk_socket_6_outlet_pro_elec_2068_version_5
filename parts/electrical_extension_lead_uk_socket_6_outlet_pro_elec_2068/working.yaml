@@ -59,6 +59,12 @@ run_oomp_populate: true
 run_scad: true
 source_main_url: https://uk.farnell.com/pro-elec/2068-10m/extension-lead-6way-10m/dp/1286484#anchorTechnicalDOCS
 taxonomy_1: electrical
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
 taxonomy_1_capital: Electrical
 taxonomy_1_first_letter: e
 taxonomy_1_first_letter_upper: E
@@ -90,4 +96,5 @@ taxonomy_6_first_letter_upper: '2'
 taxonomy_6_upper: '2068'
 taxonomy_7: ''
 taxonomy_8: ''
+taxonomy_9: ''
 url_chat: ''

@@ -111,14 +111,14 @@ def get_base(thing, **kwargs):
     #add a test screw_countersunk
     if True:
         p3 = copy.deepcopy(kwargs)
-        p3["type"] = "p"
+        p3["type"] = "negative"
         p3["shape"] = f"screw_countersunk"
         p3["depth"] = depth
         p3["radius_name"] = "m3"
         pos1 = copy.deepcopy(pos)         
         pos1[2] += depth
         p3["pos"] = pos1
-        p3["m"] = "#"
+        #p3["m"] = "#"
         oobb.append_full(thing,**p3)
 
     if prepare_print:
@@ -176,17 +176,22 @@ def get_holder(thing, **kwargs):
     if True:
         p3 = copy.deepcopy(kwargs)
         p3["type"] = "n"
-        p3["shape"] = f"nut"
-        #p3["depth"] = 25
-        p3["radius_name"] = "m4"
+        p3["shape"] = f"screw_countersunk"
+        p3["depth"] = 25
+        p3["radius_name"] = "m3"
         #hole true
         p3["hole"] = True
-        p3["nut"] = True        
+        p3["nut"] = False
+        p3["slot"] = 15      
         pos1 = copy.deepcopy(pos)
         pos1[0] += 0
-        pos1[1] += -6
-        pos1[2] += 0
+        pos1[1] += 0
+        pos1[2] += 0                
         p3["pos"] = pos1
+        rot1 = copy.deepcopy(rot)
+        rot1[1] += 180
+        rot1[2] += 90
+        p3["rot"] = rot1
         p3["m"] = "#"
         oobb.append_full(thing,**p3)
 
@@ -224,14 +229,15 @@ def get_holder(thing, **kwargs):
     #add a test screw_countersunk
     if True:
         p3 = copy.deepcopy(kwargs)
-        p3["type"] = "p"
+        p3["type"] = "negative"
         p3["shape"] = f"screw_countersunk"
         p3["depth"] = depth
         p3["radius_name"] = "m3_5_screw_wood"
+        p3["clearance"] = "top"
         pos1 = copy.deepcopy(pos)         
-        pos1[2] += depth
+        pos1[2] += depth - 5
         poss = []
-        shift_x = 3/2 * 15
+        shift_x = 15
         shift_y = 3 * 15 - 15/2
         #add 4 screws in a square pattern
         if True:
@@ -252,8 +258,57 @@ def get_holder(thing, **kwargs):
             pos14[1] -= shift_y
             poss.append(pos14)        
         p3["pos"] = poss
+        #p3["m"] = "#"
+        oobb.append_full(thing,**p3)
+
+    ##add the cylinders piece
+    if True:
+        depth_screw = 12
+        depth_bottom = 6
+        depth_gap = 2
+        pos1 = copy.deepcopy(pos)
+        pos1[1] += 100
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "positive"
+        p3["shape"] = f"oobb_cylinder"
+        p3["radius"] = (5-0.2)/2
+        dep = depth_screw - depth_bottom
+        depth_shaft = dep
+        p3["depth"] = dep        
+        pos2 = copy.deepcopy(pos1)
+        pos2[2] += dep/2 + depth_bottom
+        p3["pos"] = pos2
+        oobb.append_full(thing,**p3)
+        
+        #8.5 diameter 4 mm depth cylinder on top
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "positive"
+        p3["shape"] = f"oobb_cylinder"
+        p3["radius"] = (8.5)/2
+        dep = depth_shaft - depth_gap
+        p3["depth"] = dep
+        pos2 = copy.deepcopy(pos1)
+        pos2[2] += 0 -dep/2 + depth_screw
+        p3["pos"] = pos2
+        oobb.append_full(thing,**p3)
+        
+        #countersunk screw with nut
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "negative"
+        p3["shape"] = f"screw_countersunk"
+        p3["depth"] = depth_screw
+        p3["radius_name"] = "m3"
+        p3["nut"] = True
+        pos2 = copy.deepcopy(pos1)
+        pos2[2] += 0
+        p3["pos"] = pos2
+        rot1 = copy.deepcopy(rot)
+        rot1[1] += 180
+        p3["rot"] = rot1
         p3["m"] = "#"
         oobb.append_full(thing,**p3)
+
+
 
     if prepare_print:
         scad_help.prepare_base_for_print(thing, pos, **kwargs)
