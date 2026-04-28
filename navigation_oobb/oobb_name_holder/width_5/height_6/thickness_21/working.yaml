@@ -89,7 +89,7 @@ oobb_details:
   width: 5
 oobb_name: holder
 oomp_key: oomp_oobb_holder_5_width_6_height_21_depth_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
-project_name: C:\gh\oomp_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068
+project_name: C:\gh\oomp_electrical_extension_lead_uk_socket_6_outlet_pro_elec_2068_version_5
 run_oomp: true
 run_oomp_populate: true
 run_scad: true

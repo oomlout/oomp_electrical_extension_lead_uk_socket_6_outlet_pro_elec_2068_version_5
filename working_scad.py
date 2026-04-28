@@ -151,7 +151,8 @@ def get_holder(thing, **kwargs):
     p3["shape"] = f"oobb_holes"
     p3["both_holes"] = True  
     p3["depth"] = depth
-    p3["holes"] = "perimeter"
+    p3["holes"] = "single"
+    p3["locations"] = [[1,1],[3,1],[5,1],[1,6],[3,6],[5,6]]
     #p3["m"] = "#"
     pos1 = copy.deepcopy(pos)         
     p3["pos"] = pos1

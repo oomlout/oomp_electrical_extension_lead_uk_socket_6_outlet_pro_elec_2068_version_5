@@ -480,59 +480,23 @@ difference() {
 				}
 			}
 		}
-		translate(v = [-30.0, -37.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
+		translate(v = [-30.0, -37.5, 0]) {
+			cylinder(h = 21, r = 3.25);
 		}
-		translate(v = [-30.0, -22.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
+		translate(v = [0.0, -37.5, 0]) {
+			cylinder(h = 21, r = 3.25);
 		}
-		translate(v = [-30.0, -7.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
+		translate(v = [30.0, -37.5, 0]) {
+			cylinder(h = 21, r = 3.25);
 		}
-		translate(v = [-30.0, 7.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
+		translate(v = [-30.0, 37.5, 0]) {
+			cylinder(h = 21, r = 3.25);
 		}
-		translate(v = [-30.0, 22.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
+		translate(v = [0.0, 37.5, 0]) {
+			cylinder(h = 21, r = 3.25);
 		}
-		translate(v = [-30.0, 37.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [-15.0, -37.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [-15.0, 37.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [0.0, -37.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [0.0, 37.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [15.0, -37.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [15.0, 37.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [30.0, -37.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [30.0, -22.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [30.0, -7.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [30.0, 7.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [30.0, 22.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
-		}
-		translate(v = [30.0, 37.5, -100.0]) {
-			cylinder(h = 200, r = 3.25);
+		translate(v = [30.0, 37.5, 0]) {
+			cylinder(h = 21, r = 3.25);
 		}
 		translate(v = [-50.0, -28.5, 5]) {
 			cube(size = [100, 57, 21]);
